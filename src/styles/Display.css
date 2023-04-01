@@ -1,0 +1,11 @@
+.Display-container {
+  width: 200px;
+  display: inline-block;
+  background-color: #222731;
+  text-align: center;
+}
+
+.Display {
+  color: #fff;
+  font-size: 50px;
+}

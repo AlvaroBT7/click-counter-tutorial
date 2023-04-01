@@ -1,0 +1,22 @@
+.Button {
+    width: 100%;
+    font-size: 20px;
+    padding: 25px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    background-color: #222731;
+    color: #fff;
+}
+
+.Button.add {
+    background-color: rgb(10, 138, 10);
+}
+
+.Button.remove {
+    background-color: rgb(180, 15, 15);
+}
+
+.Button.reset {
+    background-color: rgb(41, 111, 217);
+}
